@@ -65,7 +65,7 @@ The goal is to provide an advanced, reliable classification and explanation tool
 **App overview (Home / Image upload):**
 
 <div align="center">
-  <img src="app/showcase/Showcase app.png" alt="showcase app" width="620">
+  <img src="app/showcase/Showcase app.png" alt="showcase app" width="580">
 </div>
 
 ---
