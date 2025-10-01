@@ -55,7 +55,7 @@ The goal is to provide an advanced, reliable classification and explanation tool
 
 ## 🔐 Weights & Data
 
-- **Model weights** must be downloaded from (...) and placed in the path: **`resnet101/model_trained`**.
+- **Model weights** must be downloaded from [**MODELO**](https://drive.google.com/file/d/1j_MgSHO_bTxhc_Z8Zxt5rJXQJOEIzXuE/view?usp=sharing) and placed in the path: **`resnet101/model_trained`**.
 - **Datasets** must comply with their original licenses. This project uses **Oxford-IIIT Pet** strictly for educational purposes.
 
 ---
